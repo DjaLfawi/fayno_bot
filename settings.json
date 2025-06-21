@@ -1,0 +1,8 @@
+{
+  "currency_symbol": "₽",
+  "conversion_rate": 110,
+  "min_withdraw_payeer": 220,
+  "min_withdraw_binance": 220,
+  "min_withdraw_flexy": 300,
+  "min_withdraw_games": 220
+}
